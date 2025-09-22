@@ -192,7 +192,7 @@ class HarshaVardhan:
 
 ### 📈 Contribution Activity
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harha4261&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff7b72&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha4261&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff7b72&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---

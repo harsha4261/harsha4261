@@ -1,4 +1,3 @@
- 
 # 👋 Hi, I'm Harsha Vardhan Reddy Emani
 
 <div align="center">
@@ -6,7 +5,7 @@
 </div>
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/harsha-vardhan-reddy-emani-0a61701b8/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Eharsha4261/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehvrreddy456@gmail.com)
@@ -18,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack AI Developer** and 3rd B.Tech AI/ML student who transforms ideas into production-ready solutions.
+I'm a passionate **Full-Stack AI Developer** and 3rd year B.Tech AI/ML student who transforms ideas into production-ready solutions. With hands-on experience in machine learning, deep learning, and full-stack development, I build intelligent systems that solve real-world problems.
 
 ```python
 class HarshaVardhan:
@@ -26,10 +25,17 @@ class HarshaVardhan:
         self.role = "Full-Stack AI Developer"
         self.location = "Guntur, Andhra Pradesh, India"
         self.education = "B.Tech AI/ML (CGPA: 8.59/10)"
-        self.experience = {
-            "research_intern": "CAD-Intern",
-            "projects": "Promt prompt classification, web scrapping",
-        }
+        self.focus_areas = [
+            "Machine Learning & Deep Learning",
+            "Full-Stack Web Development",
+            "Mobile App Development",
+            "Data Science & Analytics"
+        ]
+        self.currently_working_on = [
+            "Smart Job Platform",
+            "Agricultural AI Solutions",
+            "ML Price Prediction Systems"
+        ]
 ```
 
 ---
@@ -41,74 +47,35 @@ class HarshaVardhan:
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<!-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 ### 🤖 AI/ML & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=LangChain&logoColor=white) -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🌐 Web Development
-<!--![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) -->
+
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-<!--![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) -->
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-<!--![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white) -->
-
-</div>
-
----
-
-<!--## 🏆 Achievements & Certifications
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🏅 Competition Wins
-**🥇 Code Spark 2024** - 1st Place  
-*HackerEarth Platform*
-
-**🥇 Data Hunt Hackathon 2023** - 1st Place  
-*75K+ Airport Records Analysis*
-
-**🎯 LeetCode** - 100+ Problems Solved  
-*Active Problem Solver*
-
-</td>
-<td align="center" width="50%">
-
-### 📜 Certifications
-**☁️ AWS Certified AI Practitioner**  
-*Cloud AI Services & Architecture*
-
-**🎨 UI/UX Design Certification**  
-*GUVI - Design Thinking & Figma*
-
-**🐍 NPTEL Data Science using Python**  
-*Comprehensive Python & ML*
-
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -116,70 +83,129 @@ class HarshaVardhan:
 
 ## 🔥 Featured Projects
 
-<div align="center">
+### 🎯 [SmartJob V2 - Fresher Jobs Platform](https://github.com/harsha4261/SmartJob-V2)
+*Comprehensive job and internship platform designed specifically for freshers and students*
 
-### 🤖 Smart AI-Powered ATS Platform
-*Production-grade recruitment system serving 100+ users*
+[![Tech](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/harsha4261/SmartJob-V2)
+[![Tech](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://github.com/harsha4261/SmartJob-V2)
+[![Tech](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://github.com/harsha4261/SmartJob-V2)
+[![Tech](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://github.com/harsha4261/SmartJob-V2)
 
-[![Tech](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](link)
-[![Tech](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](link)
-[![Tech](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)](link)
-[![Tech](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](link)
+**Key Features:**
+- 🔍 Advanced job search with multiple filters (location, experience, remote)
+- 📊 Real-time job updates with web scraping from LinkedIn, Indeed, Naukri, Internshala
+- 💼 Integrated resume builder with multiple templates
+- 🎓 Career guidance and interview preparation resources
+- 📱 Fully responsive design with smooth animations using Framer Motion
+- ⚡ Fast loading times with intelligent caching and background updates
+
+---
+
+### 🧠 [Prompt Classification ML](https://github.com/harsha4261/Prompt-Classification-ML)
+*Advanced machine learning system for hierarchical prompt classification*
+
+[![Tech](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://github.com/harsha4261/Prompt-Classification-ML)
+[![Tech](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://github.com/harsha4261/Prompt-Classification-ML)
+[![Tech](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://github.com/harsha4261/Prompt-Classification-ML)
 
 **Key Achievements:**
-- ⚡ **60% reduction** in resume screening time
-- 📊 **95%+ parsing accuracy** for resume analysis
-- 🔒 **JWT authentication** with role-based access
-- 🐳 **Dockerized deployment** on AWS infrastructure
-- 📈 **<200ms response time** under load
+- 🎯 Hierarchical classification model with superior accuracy
+- 📝 TF-IDF vectorization for robust text feature extraction
+- 🔄 Data augmentation with expanded prompt dataset
+- 🌐 Interactive web application for real-time classification
+- 💾 Persistent model storage for efficient inference
 
 ---
 
-### 🔍 Medical AI: Skin Lesion Classification
-*Advanced CNN research achieving clinical-grade accuracy*
+### 🌾 [FarmConnect - Agricultural Mobile Platform](https://github.com/harsha4261/Farmconnect)
+*Modern Flutter-based mobile application for connecting farmers with markets*
 
-[![Tech](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](link)
-[![Tech](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](link)
-[![Published](https://img.shields.io/badge/Published-HF_Hub-yellow)](link)
+[![Tech](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)](https://github.com/harsha4261/Farmconnect)
+[![Tech](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://github.com/harsha4261/Farmconnect)
 
-**Research Impact:**
-- 🎯 **98.65% sensitivity** on HAM10000 dataset
-- 🧠 **ConvNeXt + ViT+CBAM** hybrid architecture
-- 🔬 **Multi-modal pipeline** with dermoscopic features
-- 📚 **Published on Hugging Face** for research community
-
----
-
-### ⚡ LogFast: High-Performance Log Analyzer
-*C++17 system processing millions of logs efficiently*
-
-[![Tech](https://img.shields.io/badge/C++17-00599C?style=flat&logo=cplusplus&logoColor=white)](link)
-[![Tech](https://img.shields.io/badge/Threading-FF6B6B?style=flat&logo=threading&logoColor=white)](link)
-
-**Performance Features:**
-- 🚀 **Custom thread pool** architecture
-- 🔒 **Lock-free operations** for high throughput
-- 💾 **Memory-efficient** processing
-- ⚙️ **Optimized regex** parsing
+**Features:**
+- 📱 Cross-platform mobile application (Android & iOS)
+- 🎨 Modern UI with comprehensive theming system (light/dark modes)
+- 📐 Responsive design using Sizer package
+- 🗺️ Advanced routing system for seamless navigation
+- 🚀 Production-ready architecture with modular design
 
 ---
 
-### 🗣️ Telugu Text-to-Speech System
-*Making AI speak regional languages*
+### 💰 [Crop Price Predictor](https://github.com/harsha4261/crop-price-predictor)
+*Deep learning system for forecasting agricultural crop prices*
 
-[![Tech](https://img.shields.io/badge/SpeechT5-FF6F61?style=flat&logo=speechT5&logoColor=white)](link)
-[![Downloads](https://img.shields.io/badge/Downloads-116+-brightgreen)](link)
+[![Tech](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/harsha4261/crop-price-predictor)
+[![Tech](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://github.com/harsha4261/crop-price-predictor)
+[![Tech](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://github.com/harsha4261/crop-price-predictor)
 
-**Language Processing:**
-- 🎵 **8,576 audio samples** training dataset
-- 🔤 **Custom transliteration** pipeline
-- 📱 **116+ downloads** on Hugging Face
-- 🌏 **Regional language support** for Telugu
+**Technical Highlights:**
+- 🧠 Deep neural network with multiple dense layers
+- 📊 Automated data preprocessing with feature engineering
+- 🎯 Label encoding for categorical features, standard scaling for numerical data
+- 💾 Model persistence with preprocessing components for consistent inference
+- 📈 Evaluation using R2 score and MAPE metrics
+
+---
+
+### 📡 [Network Traffic Prediction](https://github.com/harsha4261/Network-Traffic-Prediction-)
+*Time-series forecasting for network traffic patterns using ARIMA and LSTM*
+
+[![Tech](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/harsha4261/Network-Traffic-Prediction-)
+[![Tech](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://github.com/harsha4261/Network-Traffic-Prediction-)
+
+**Methodology:**
+- 📊 Dual approach: Traditional ARIMA and modern LSTM neural networks
+- 🔍 Comprehensive EDA for understanding traffic patterns and seasonality
+- ⚙️ Automated ARIMA parameter selection using pmdarima
+- 🧠 Sequential LSTM model for advanced time-series prediction
+- 📈 Performance evaluation with RMSE and MAE metrics
+
+---
+
+### 💳 [Amazon ML Challenge - Smart Product Pricing](https://github.com/harsha4261/AmazonMl)
+*ML solution for optimal product pricing in e-commerce*
+
+[![Tech](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://github.com/harsha4261/AmazonMl)
+[![Tech](https://img.shields.io/badge/ML-Challenge-orange)](https://github.com/harsha4261/AmazonMl)
+
+**Challenge Details:**
+- 🎯 Predicting optimal prices for 75K products
+- 🖼️ Multi-modal approach: Text (catalog content) + Images
+- 📊 SMAPE evaluation metric for price accuracy
+- 🔧 Feature engineering for text and image data
+- 📝 Complete documentation of methodology and architecture
+
+---
+
+### 🕷️ [Web Scraping Project](https://github.com/harsha4261/Web-Scraping-Project)
+*Comprehensive web scraping solution for data extraction and processing*
+
+[![Tech](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)](https://github.com/harsha4261/Web-Scraping-Project)
+[![Tech](https://img.shields.io/badge/BeautifulSoup-59666C?style=flat&logo=beautifulsoup&logoColor=white)](https://github.com/harsha4261/Web-Scraping-Project)
+[![Tech](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://github.com/harsha4261/Web-Scraping-Project)
+
+**Capabilities:**
+- 🌐 Multi-library approach: BeautifulSoup, Scrapy, and Selenium
+- 📊 Structured data extraction from various sources
+- 🔄 Robust error handling and data validation
+- 💾 Efficient data storage and processing pipelines
+
+---
+
+## 📚 Additional Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Information Retrieval Systems](https://github.com/harsha4261/Information-Retrieval-Systems) | Advanced IR algorithms and search systems | Python, NLP |
+| [Machine Learning](https://github.com/harsha4261/Machine-learning) | Collection of ML algorithms and implementations | Python, Scikit-learn |
+| [Data Analysis Using Python](https://github.com/harsha4261/Data-Analysis-Using-Python-2024-25) | Comprehensive data analysis projects | Python, Pandas, NumPy |
 
 </div>
--->
----
 
+---
 
 ## 📊 GitHub Analytics
 
@@ -194,10 +220,8 @@ class HarshaVardhan:
 
 ### 📈 Contribution Activity
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Epik-Whale463&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff7b72&area=true&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsha4261&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ff7b72&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=harsha4261&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -205,66 +229,28 @@ class HarshaVardhan:
 </div>
 
 ---
-<!--
+
 ## 🎯 Current Focus Areas
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Rama Charan))
-    Research
-      Medical AI
-      Computer Vision
-      LLM Applications
-    Development
-      Full-Stack Apps
-      Microservices
-      CI/CD Pipelines
-    Learning
-      System Design
-      Cloud Architecture
-      Advanced Algorithms
-    Community
-      AI HUB Mentoring
-      Knowledge Sharing
-      Open Source
-```
-
-</div>
-
-**🔬 Research**: Advancing medical AI with hybrid CNN architectures  
-**💻 Development**: Building scalable, production-ready applications  
-**📚 Learning**: System design, cloud architecture, and LLM optimization  
-**👥 Community**: Mentoring 50+ students through AI HUB initiatives
-
----
-
-## 🌟 Professional Journey
-
-<div align="center">
-
-| Timeline | Role | Organization | Achievement |
-|----------|------|--------------|-------------|
-| **2025 - Present** | Research Intern | IIIT Nagpur | 98.65% medical AI accuracy |
-| **2025 - Present** | AI Mentor | AI HUB | 50+ students mentored |
-| **2024** | Competition Winner | HackerEarth | Code Spark 1st Place |
-| **2023** | Hackathon Winner | Data Hunt | 75K records analysis |
-| **2022 - 2026** | B.Tech Student | VVIT | CGPA: 8.48/10 |
+**🤖 AI/ML Development**: Building intelligent systems with deep learning and NLP
+**💻 Full-Stack Development**: Creating scalable web and mobile applications
+**📊 Data Science**: Analyzing and extracting insights from complex datasets
+**🌾 AgriTech Solutions**: Developing AI-powered solutions for agriculture sector
 
 </div>
 
 ---
--->
+
 ## 🎨 Fun Facts & Interests
 
 <div align="center">
 
-<!--🎯 **Problem Solving**: 100+ LeetCode problems conquered   -->
-☕ **Fuel**: Converting coffee into production-ready code since 2022  
-🌍 **Languages**: English (Fluent), Telugu (Native), Hindi (Conversational)  
-🎮 **Philosophy**: *"Code should be written for humans to read"*  
-🚀 **Goal**: Building AI systems that make a real-world impact  
+☕ **Fuel**: Converting coffee into production-ready code since 2022
+🌍 **Languages**: English (Fluent), Telugu (Native), Hindi (Conversational)
+🎮 **Philosophy**: *"Code should be written for humans to read"*
+🚀 **Goal**: Building AI systems that make a real-world impact
 
 </div>
 
@@ -277,12 +263,13 @@ mindmap
 I'm always excited to discuss:
 - 🤖 AI/ML system architecture and optimization
 - 🌐 Full-stack development and scalable systems
-- 🔬 Research collaboration in computer vision
-- 💼 Production deployment strategies and DevOps
+- 📱 Mobile app development with Flutter
+- 🔬 Data science and predictive analytics
+- 🌾 AgriTech and innovative solutions for agriculture
 
-**📧 Email**: ehvrreddy456@gmai.com  
-**⚡ Response Time**: Usually within 24 hours  
-**🌍 Location**: Guntur, Andhra Pradesh, India  
+**📧 Email**: ehvrreddy456@gmail.com
+**⚡ Response Time**: Usually within 24 hours
+**🌍 Location**: Guntur, Andhra Pradesh, India
 **💼 Status**: Open to opportunities and collaborations
 
 ---

@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Production+LLM+Systems+%7C+Multi-Agent+Architectures;Fine-Tuning+on+AMD+MI300X+%7C+Intel+Gaudi3+%7C+NVIDIA+L40S;SocialGPT+—+5%2C000%2B+Users+in+Production;HPC+%7C+DDP+%7C+LoRA+%7C+RAG+%7C+LangGraph;Building+Safe+and+Beneficial+AI+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Production+LLM+Systems+%7C+Multi-Agent+Architectures;Fine-Tuning+on+AMD+MI300X+%7C+Intel+Gaudi3+%7C+NVIDIA+L40S;SocialGPT+%E2%80%94+5%2C000%2B+Users+in+Production;HPC+%7C+DDP+%7C+LoRA+%7C+RAG+%7C+LangGraph;Building+Safe+and+Beneficial+AI+Systems" alt="Typing SVG" />
 
 </div>
 

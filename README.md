@@ -238,14 +238,15 @@ class HarshaVardhanReddyEmani:
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
+| [🎯 SmartJob V2](https://github.com/harsha4261/SmartJob-V2) | Fresher jobs & internship platform — real-time scraping (LinkedIn, Naukri, Internshala), resume builder, intelligent caching | React, TypeScript, Vite, Tailwind |
+| [🌾 FarmConnect](https://github.com/harsha4261/Farmconnect) | Cross-platform agricultural mobile app with light/dark theming and advanced routing | Flutter, Dart |
+| [💰 Crop Price Predictor](https://github.com/harsha4261/crop-price-predictor) | Deep learning price forecasting with R² & MAPE evaluation | Keras, TensorFlow, Python |
+| [📡 Network Traffic Prediction](https://github.com/harsha4261/Network-Traffic-Prediction-) | Dual ARIMA + LSTM time-series forecasting with auto parameter selection | TensorFlow, Python |
+| [💳 Amazon ML Challenge](https://github.com/harsha4261/AmazonMl) | Optimal pricing for 75K+ products via multi-modal ML (catalog text + images) | Python |
 | [🕷️ Web Scraping](https://github.com/harsha4261/Web-Scraping-Project) | Multi-library scraping with BeautifulSoup, Scrapy & Selenium | Python |
 | [🔍 Information Retrieval](https://github.com/harsha4261/Information-Retrieval-Systems) | Advanced IR algorithms and search systems | Python, NLP |
 | [🤖 Machine Learning](https://github.com/harsha4261/Machine-learning) | Collection of ML algorithms and implementations | Python, Scikit-learn |
 | [📊 Data Analysis](https://github.com/harsha4261/Data-Analysis-Using-Python-2024-25) | Comprehensive data analysis projects | Python, Pandas, NumPy |
-| [🌾 FarmConnect](https://github.com/harsha4261/Farmconnect) | Cross-platform agricultural mobile app | Flutter, Dart |
-| [📡 Network Traffic Prediction](https://github.com/harsha4261/Network-Traffic-Prediction-) | ARIMA + LSTM time-series forecasting | TensorFlow, Python |
-| [💰 Crop Price Predictor](https://github.com/harsha4261/crop-price-predictor) | Deep learning price forecasting with R² & MAPE evaluation | Keras, Python |
-| [💳 Amazon ML Challenge](https://github.com/harsha4261/AmazonMl) | Optimal pricing for 75K+ products via multi-modal ML | Python |
 
 </div>
 
